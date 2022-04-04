@@ -8,8 +8,9 @@ Fine Needle Aspiration
 Flow Chart:
 
 Dataset
-Data Pre-Processing
+Data Pre-Processing,
 Train Test Split
+
 Training Data:
    Logistic Regression Model
   As its best for binary classification (as 0,1) 
