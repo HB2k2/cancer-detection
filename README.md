@@ -11,7 +11,7 @@ Data Pre-Processing,
 Train Test Split,
 Training Data:
    Logistic Regression Model
-  (As its best for binary classification (as 0,1))
+  (As its best for binary classification (as 0,1)),
 Trained Logistic Regression Model,
 testing
 
